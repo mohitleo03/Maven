@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.ncu.calc.calculator.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.039 s <<< FAILURE! - in com.ncu.calc.calculator.AppTest
+evaluateExpression(com.ncu.calc.calculator.AppTest)  Time elapsed: 0.007 s  <<< FAILURE!
+java.lang.AssertionError: expected:<11> but was:<10>
+	at com.ncu.calc.calculator.AppTest.evaluateExpression(AppTest.java:23)
+
